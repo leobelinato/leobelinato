@@ -15,10 +15,10 @@
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
 src="https://static.escolakids.uol.com.br/2020/04/1-medico-peste-negra.jpg?width=676&height=676">
+</div>
   
-    
-</div>  
-  ## 
+  ##
+ 
 <div> 
   <a href="https://instagram.com/leobelinato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leobelinato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
