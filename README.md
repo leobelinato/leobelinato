@@ -18,11 +18,7 @@
   
     
 </div>
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-src="https://img2.gratispng.com/20180508/rre/kisspng-black-death-plague-doctor-costume-bubonic-plague-5af20c1116c0d3.6522009915258122410932.jpg">
-  
-  ##
+
  
 <div> 
   <a href="https://instagram.com/leobelinato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
