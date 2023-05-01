@@ -20,7 +20,7 @@
 </div>
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-src="https://static.escolakids.uol.com.br/2020/04/1-medico-peste-negra.jpg?width=676&height=676">
+src="https://img2.gratispng.com/20180508/rre/kisspng-black-death-plague-doctor-costume-bubonic-plague-5af20c1116c0d3.6522009915258122410932.jpg">
   
   ##
  
