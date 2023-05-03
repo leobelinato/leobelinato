@@ -25,6 +25,6 @@
  
 </div>
   
-  <div>
-    <center>Copyright © 2023 - iuricode</center>
+  <div align="center" >
+    Copyright © 2023 - iuricode
   </div>
